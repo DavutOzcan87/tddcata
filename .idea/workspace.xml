@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ead8e168-b3af-4fdd-8a4a-ae7037370470" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TpUH3kDR4MCZAxkR1XZhk4mGeO" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.dwt.tddcata" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.NamePollerTest">
+    <configuration name="DateUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tddcata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dwt.tddcata.dateutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dwt.tddcata.dateutils" />
+      <option name="MAIN_CLASS_NAME" value="com.dwt.tddcata.dateutils.DateUtilTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateUtilTest.testNowAsStr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tddcata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dwt.tddcata.dateutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dwt.tddcata.dateutils" />
+      <option name="MAIN_CLASS_NAME" value="com.dwt.tddcata.dateutils.DateUtilTest" />
+      <option name="METHOD_NAME" value="testNowAsStr" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tddcata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dwt.tddcata.dateutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dwt.tddcata" />
+      <option name="MAIN_CLASS_NAME" value="com.dwt.tddcata.HelloTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NamePollerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tddcata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dwt.tddcata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dwt.tddcata" />
+      <option name="MAIN_CLASS_NAME" value="com.dwt.tddcata.NamePollerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NamePollerTest.shouldAddAllIfNoRecordExistsInDb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tddcata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dwt.tddcata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dwt.tddcata" />
+      <option name="MAIN_CLASS_NAME" value="com.dwt.tddcata.NamePollerTest" />
+      <option name="METHOD_NAME" value="shouldAddAllIfNoRecordExistsInDb" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NamePollerTest" />
+        <item itemvalue="JUnit.NamePollerTest.shouldAddAllIfNoRecordExistsInDb" />
+        <item itemvalue="JUnit.DateUtilTest.testNowAsStr" />
+        <item itemvalue="JUnit.DateUtilTest" />
+        <item itemvalue="JUnit.HelloTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ead8e168-b3af-4fdd-8a4a-ae7037370470" name="Default Changelist" comment="" />
+      <created>1574156439282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574156439282</updated>
+    </task>
+    <servers />
+  </component>
+</project>
